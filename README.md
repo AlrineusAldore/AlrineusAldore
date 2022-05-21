@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlrineusAldore
 - 👀 I’m interested in machine learning and math, but I also like to look at quantum physics advancements when I can.
-- 🌱 I’m currently self-learning machine learning with neural networks, and linear algebra + differential equations.
+- 🌱 I’m currently self-learning machine learning with neural networks, and linear algebra too.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
